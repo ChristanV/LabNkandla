@@ -1,0 +1,7 @@
+C:\C#_bootcamp\Nkandla\Nkandla_UnitTests\bin\Debug\Nkandla_UnitTests.dll
+C:\C#_bootcamp\Nkandla\Nkandla_UnitTests\bin\Debug\Nkandla_UnitTests.pdb
+C:\C#_bootcamp\Nkandla\Nkandla_UnitTests\bin\Debug\Nkandla.exe
+C:\C#_bootcamp\Nkandla\Nkandla_UnitTests\bin\Debug\Nkandla.pdb
+C:\C#_bootcamp\Nkandla\Nkandla_UnitTests\obj\Debug\Nkandla_UnitTests.csprojResolveAssemblyReference.cache
+C:\C#_bootcamp\Nkandla\Nkandla_UnitTests\obj\Debug\Nkandla_UnitTests.dll
+C:\C#_bootcamp\Nkandla\Nkandla_UnitTests\obj\Debug\Nkandla_UnitTests.pdb

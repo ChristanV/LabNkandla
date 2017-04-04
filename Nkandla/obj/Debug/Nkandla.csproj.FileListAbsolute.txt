@@ -1,0 +1,1 @@
+C:\C#_bootcamp\Nkandla\Nkandla\bin\Debug\Nkandla.exe.config

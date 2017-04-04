@@ -1,0 +1,6 @@
+C:\C#_bootcamp\Nkandla\Nkandla\bin\Debug\Nkandla.exe.config
+C:\C#_bootcamp\Nkandla\Nkandla\bin\Debug\Nkandla.exe
+C:\C#_bootcamp\Nkandla\Nkandla\bin\Debug\Nkandla.pdb
+C:\C#_bootcamp\Nkandla\Nkandla\obj\Debug\Nkandla.exe
+C:\C#_bootcamp\Nkandla\Nkandla\obj\Debug\Nkandla.pdb
+C:\C#_bootcamp\Nkandla\Nkandla\obj\Debug\Nkandla_Proj.csprojResolveAssemblyReference.cache
